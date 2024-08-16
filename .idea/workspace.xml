@@ -9,21 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a7961ef-8d90-4cfc-ad5e-df8392b88a62" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run_server.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/server.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/spigot.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/eltankesitoarceus/dailyDig/DailyDig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/eltankesitoarceus/dailyDig/Listeners.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/eltankesitoarceus/dailyDig/StatisticsHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/eltankesitoarceus/dailyDig/web/RouteHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/web/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/web/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="6a7961ef-8d90-4cfc-ad5e-df8392b88a62" name="Changes" comment="Base project (get basic minecraft stats, basic web server, easy run and compile in Intellij)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ElTankesitoArceus"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ElTankesitoArceus/DailyDig.git",
+    "accountId": "d951ae01-8909-40b5-8f14-a84d8efc7d2b"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -59,7 +57,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "Shell Script.run_test_server.executor": "Run",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/alber/IdeaProjects/DailyDig",
@@ -96,6 +94,15 @@
       <option name="presentableId" value="Default" />
       <updated>1723737388885</updated>
     </task>
+    <task id="LOCAL-00001" summary="Base project (get basic minecraft stats, basic web server, easy run and compile in Intellij)">
+      <option name="closed" value="true" />
+      <created>1723843967364</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723843967364</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,5 +115,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Base project (get basic minecraft stats, basic web server, easy run and compile in Intellij)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Base project (get basic minecraft stats, basic web server, easy run and compile in Intellij)" />
   </component>
 </project>

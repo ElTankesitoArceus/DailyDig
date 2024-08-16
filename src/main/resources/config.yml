@@ -1,0 +1,3 @@
+#The host and port for the web config GUI
+server_host: 0.0.0.0 #Binds to all interfaces
+server_port: 1252 #Cannot be the same as the server port (or any other service running on the system)

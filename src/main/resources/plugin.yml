@@ -1,0 +1,8 @@
+name: DailyDig
+version: '0.0.1'
+author: el_tankesito_arceus
+main: io.github.eltankesitoarceus.dailyDig.DailyDig
+api-version: '1.21.1'
+description: A minecraft plugin that sends summaries of the server
+
+softdepend: [PlaceholderAPI]
